@@ -38,7 +38,7 @@ Website portfolio berbasis HTML & CSS dengan tampilan seperti website portfolio 
 
 ### Penjelasan Code:
 a.  Navbar dibuat menggunakan komponen Bootstrap:
-- <nav class="navbar navbar-expand-lg navbar-dark navTop sticky-top">
+- nav class="navbar navbar-expand-lg navbar-dark navTop sticky-top">. saya hilangkan tanda nya < satu karena nanti terbaca oleh githubnya
 - navbar-expand-lg : menu akan collapse pada layar kecil.
 - sticky-top : navbar tetap terlihat saat halaman di-scroll.
 - collapse navbar-collapse : berfungsi untuk menyembunyikan menu ketika ukuran layar mengecil.
@@ -61,7 +61,8 @@ b. Brand yang ditampilkan menggunakan Vue: {{ brand }} nilai brand disimpan di d
 
 Penjelasan code : 
 Section Home menggunakan:
- - <header id="home">
+ - header id="home">. saya hilangkan tanda nya < satu karena nanti terbaca oleh githubnya
+
 
 a. Layoutnya menggunakan Bootstrap grid :
 - container py-5 : untuk jarak atas bawah.
@@ -74,7 +75,7 @@ b. Data yang ditampilkan menggunakan Vue terdiri dari :
 - {{ profile.tagline }}
 
 c. Foto dipanggil dari: 
-- img src="assets/foto saya.jpeg" class="heroPhoto">/ saya hilangkan tanda nya < satu karena nanti terbaca oleh githubnya
+- img src="assets/foto saya.jpeg" class="heroPhoto">/. saya hilangkan tanda nya < satu karena nanti terbaca oleh githubnya
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/700b00da-296d-404d-a3e4-8cc22d89ad04" />
