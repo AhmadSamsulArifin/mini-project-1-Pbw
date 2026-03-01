@@ -73,8 +73,8 @@ b. Data yang ditampilkan menggunakan Vue terdiri dari :
 - {{ profile.role }}
 - {{ profile.tagline }}
 
-c. Foto dipanggil dari:
-- /<img src="assets/foto saya.jpeg" class="heroPhoto">/
+c. Foto dipanggil dari: 
+- img src="assets/foto saya.jpeg" class="heroPhoto">/ saya hilangkan tanda nya < satu karena nanti terbaca oleh githubnya
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/700b00da-296d-404d-a3e4-8cc22d89ad04" />
