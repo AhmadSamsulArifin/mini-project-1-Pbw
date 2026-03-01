@@ -11,6 +11,7 @@ Mini Project 1 Pemrograamn Berbasis Web
 ## Deskripsi Project
 Website portfolio berbasis HTML & CSS dengan tampilan seperti website portfolio yang ada home,about,certificates,contact, dan lets talk. Website ini juga menggunakan Bootstrap 5 dan Vue JS sebagai nilai tambah.
 
+
 ## Tujuan Project
 - Membuat halaman web dengan struktur HTML yang benar.
 - Menerapkan styling CSS untuk warna, layout, dan tampilan yang modern.
@@ -47,6 +48,7 @@ b. Brand yang ditampilkan menggunakan Vue: {{ brand }} nilai brand disimpan di d
 
 <img width="1338" height="48" alt="image" src="https://github.com/user-attachments/assets/bd56bad1-26b3-4e56-81da-e82b45815017" />
 
+
 ## Home 
 
 ### Fitur yang ada :
@@ -74,6 +76,7 @@ b. Data yang ditampilkan menggunakan Vue terdiri dari :
 c. Foto dipanggil dari:
 - <img src="assets/foto saya.jpeg" class="heroPhoto">
 
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/700b00da-296d-404d-a3e4-8cc22d89ad04" />
 
 ## Highlights Section
@@ -89,6 +92,7 @@ Ketika ukuran layar lebih kecil atau mobile, setiap kolom akan tersusun vertikal
 
 b. Card menggunakan class : .glassCard yang memberikan efek transparan dengan tambahan border dan bayangan.
 
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/51347555-a7bb-4ce0-b0e7-b4a7c0d56256" />
 
 ## About me 
@@ -96,6 +100,7 @@ b. Card menggunakan class : .glassCard yang memberikan efek transparan dengan ta
 Ada lima bagian pada about me yaitu : 
 
 Penjelasan code :
+
 a. Pada quick info terdapat 3 fitur yaitu :
 - Fokus
 - Minat
@@ -127,6 +132,7 @@ e. Dan yang terakhir terdapat Experience yang menampilkan pengalaman organisasi 
   border-left: ...
 }
 Sehingga muncul garis vertikal seperti alur pengalaman.
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8ccdfba-e78b-4803-b700-0c7885e68382" />
 
