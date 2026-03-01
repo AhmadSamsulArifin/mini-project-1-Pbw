@@ -61,7 +61,7 @@ b. Brand yang ditampilkan menggunakan Vue: {{ brand }} nilai brand disimpan di d
 
 Penjelasan code : 
 Section Home menggunakan:
-- <header id="home">
+ - <header id="home">
 
 a. Layoutnya menggunakan Bootstrap grid :
 - container py-5 : untuk jarak atas bawah.
