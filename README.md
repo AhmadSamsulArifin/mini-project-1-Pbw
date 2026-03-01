@@ -74,7 +74,7 @@ b. Data yang ditampilkan menggunakan Vue terdiri dari :
 - {{ profile.tagline }}
 
 c. Foto dipanggil dari:
-- <img src="assets/foto saya.jpeg" class="heroPhoto">
+- /<img src="assets/foto saya.jpeg" class="heroPhoto">/
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/700b00da-296d-404d-a3e4-8cc22d89ad04" />
